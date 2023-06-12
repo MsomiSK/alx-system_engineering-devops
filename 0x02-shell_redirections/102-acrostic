@@ -1,2 +1,2 @@
 #!/bin/bash
-read -d " -r -a lines < ""
+read -d " -r -a lines < " "
