@@ -1,2 +1,2 @@
 #!/bin/bash
-read -d " -r -a lines < " "
+cut -c 1 | paste -s -d ''
